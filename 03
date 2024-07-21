@@ -8,7 +8,7 @@ int main()
     cout << "Enter dividend= sdf sdfsdf  sd";
     cin >> dividend;
 
-    cout << "Enter divisor=";
+    cout << "Enter divisor= dsfsdfsf sdf  vbjnj uj";
     cin >> divisor;
 
     quotient = dividend / divisor;
