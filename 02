@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;  khh f yiduy 
+using namespace std;
 
 int main() {    
     int number;
