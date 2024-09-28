@@ -5,7 +5,7 @@ int main()
 {    
     int divisor, dividend, quotient, remainder;
 
-    cout << "Enter dividend= ";
+    cout << "Enter dividend= Hello world";
     cin >> dividend;
 
     cout << "Enter divisor=";
