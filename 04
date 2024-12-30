@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std; kjg jkguk fkf k
+using namespace std; 
 
 int main() {
   cout << "Hello World.... Hi this is good\n";
