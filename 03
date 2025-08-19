@@ -3,7 +3,7 @@ using namespace std..
 
 int main()
 {    
-    int divisor, dividend, quotient, remainder;
+    int divisor, dividend, quotient, remainder...;
 
     cout << "Enter dividend= Hello world";
     cin >> dividend;
